@@ -12,7 +12,6 @@ __meta__ = {
 
 [node name="KinematicBody2D" type="KinematicBody2D" parent="."]
 script = ExtResource( 1 )
-playerSpeed = 600
 
 [node name="Sprite" type="Sprite" parent="KinematicBody2D"]
 texture = ExtResource( 2 )
